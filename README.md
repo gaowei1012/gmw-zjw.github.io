@@ -31,10 +31,8 @@ ssh-keygen -t rsa -C "注册Github用的邮箱"
 看到 ```Enter passphrase (empty for no passphrase): ```设置一个密码<br/>
 看到 ```Enter same passphrase again: ```重复上面的密码<br/>
 
-### 找到刚生成的SSH key，打开id_rsa.pub复制里面的内容：
+### 找到刚生成的SSH key，打开id_rsa.pub复制复制里面的内容:<br/>
 ```
-  cd ~/.ssh
-  gedit id_rsa.pub
 ```
 ### 在github里New SSH key 并粘贴。然后测试：<br/>
 ``` 
