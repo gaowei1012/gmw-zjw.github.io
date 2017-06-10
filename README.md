@@ -76,7 +76,7 @@ package.json为应用程序数据文件。 <br/>
 #### 进入blog文件夹内,安装配置文件:
 ``` sudo npm install ```
 #### 安装完配置文件后,启动服务:
-``` sudo hexo server ```
+``` sudo hexo server ``` <br/>
 好了, 现在你会看到命令行窗口的链接地址,打开浏览器输入该地址就可以访问了
 
  
