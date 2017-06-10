@@ -33,6 +33,8 @@ ssh-keygen -t rsa -C "注册Github用的邮箱"
 
 ### 找到刚生成的SSH key，打开id_rsa.pub复制复制里面的内容:<br/>
 ```
+ cd ~/.shh
+ gedit id_rsa.pub
 ```
 ### 在github里New SSH key 并粘贴。然后测试：<br/>
 ``` 
