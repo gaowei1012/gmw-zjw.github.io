@@ -12,6 +12,7 @@
 ## 2017年6月10日
  - [分享知识](https://github.com/gmw-zjw/gmw-zjw.github.io/issues/2)
  - [在Ubuntu系统下用Github和Hexo建立自己的博 ](https://github.com/gmw-zjw/gmw-zjw.github.io/issues/1/)
+ - [ubuntu下使用git上传项目到github中](https://github.com/gmw-zjw/gmw-zjw.github.io/issues/2)
 
 
  
