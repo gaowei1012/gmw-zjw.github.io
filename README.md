@@ -6,6 +6,8 @@
   
   [持续更新中...](https://gmw-zjw.github.io/)
   
+    [个人简历](https://github.com/gmw-zjw/resume.github.io)
+  
   
 ## 2017年6月10日
  - [分享知识](https://github.com/gmw-zjw/gmw-zjw.github.io/issues/2)
