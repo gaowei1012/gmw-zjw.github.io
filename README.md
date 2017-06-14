@@ -8,15 +8,14 @@
   
     [个人简历](https://github.com/gmw-zjw/resume.github.io)
   
-  
-# 目录
+  
+## 目录
 
-  2017年6月14日
+ 2017年6月14日
  - [jQuer中each和forEach的区别](https://github.com/gmw-zjw/gmw-zjw.github.io/issues/3)
  - [webstrom常用快捷键](https://github.com/gmw-zjw/gmw-zjw.github.io/issues/4)
   
-
-  2017年6月10日
+ 2017年6月10日
  - [在Ubuntu系统下用Github和Hexo建立自己的博 ](https://github.com/gmw-zjw/gmw-zjw.github.io/issues/1/)
  - [ubuntu下使用git上传项目到github中](https://github.com/gmw-zjw/gmw-zjw.github.io/issues/2)
 
