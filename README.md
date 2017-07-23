@@ -17,7 +17,7 @@
  2017年7月1日
  
  - [小程序开发指南（一）](https://github.com/gmw-zjw/gmw-zjw.github.io/issues/6)
- - [小程序开发指南（二）]()
+ - [小程序开发指南（二）](https://github.com/gmw-zjw/gmw-zjw.github.io/issues/7)
  
  2017年6月17日
 
