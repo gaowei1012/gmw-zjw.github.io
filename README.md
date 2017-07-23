@@ -19,7 +19,7 @@
  - [小程序开发指南（一）](https://github.com/gmw-zjw/gmw-zjw.github.io/issues/6)
  - [小程序开发指南（二）](https://github.com/gmw-zjw/gmw-zjw.github.io/issues/7)
  - [小程序开发指南（三）](https://github.com/gmw-zjw/gmw-zjw.github.io/issues/8)
- - [小程序开发指南（四）]()
+ - [小程序开发指南（四）](https://github.com/gmw-zjw/gmw-zjw.github.io/issues/9)
  
  2017年6月17日
 
