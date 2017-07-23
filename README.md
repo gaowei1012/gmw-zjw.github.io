@@ -17,8 +17,8 @@
  2017年7月9日
  
  - [小程序进阶（一）](https://github.com/gmw-zjw/gmw-zjw.github.io/issues/11)
- - [小程序进阶（一）]()
- - [小程序进阶（一）]()
+ - [小程序进阶（二）PIO联想](http://lbsyun.baidu.com/index.php?title=wxjsapi/guide/getsuggestion)
+ - [小程序进阶（三）一个简单的天气查询（API）](http://lbsyun.baidu.com/index.php?title=wxjsapi/guide/getweather)
  
  2017年7月8日
  
